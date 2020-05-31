@@ -17,6 +17,8 @@ export const Container = styled.div<ContainerProps>`
     justify-content: space-between;
 
     nav {
+      max-width: 100%;
+
       a {
         color: #fff;
         text-decoration: none;
